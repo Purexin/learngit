@@ -4,3 +4,4 @@ but tenperature in room is suitable
 
 git is a distributed version control system
 git is free software
+Creating a new branch is quick & simple.
