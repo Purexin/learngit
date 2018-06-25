@@ -1,3 +1,6 @@
 the day is jun 15th
 the weather today is hot
-but tenperature in room is suitable for the machine
+but tenperature in room is suitable
+
+git is a distributed version control system
+git is free software
